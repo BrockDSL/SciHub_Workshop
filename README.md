@@ -1,3 +1,5 @@
+![DSL Logo](dsl_logo.png)
+
 # SciHub_Workshop
 _Material and Workbook for Data Science Workshop_
 
