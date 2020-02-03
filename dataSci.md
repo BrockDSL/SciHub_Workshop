@@ -53,4 +53,9 @@ Example Bargraph:
 
 ![simple bar](simple_bar.png)
 
+## Following up
+
+- You can return to your notebooks by logging in here: https://brocku.syzygy.ca/
+
+- More details about the Digital Scholarship Lab (and other other workshops) can be found here: https://brocku.ca/library/dsl
 
