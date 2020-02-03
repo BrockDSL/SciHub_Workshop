@@ -1,7 +1,9 @@
 
 ![dsl_logo.png](dsl_logo.png)
 
-# Advanced Python 
+# Data Science and Python 
+
+Today's Material: http://bit.ly/DSLSciHub
 
 ## Pandas
 
