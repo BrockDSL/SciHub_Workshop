@@ -1,28 +1,23 @@
 ![DSL Logo](dsl_logo.png)
 
-# SciHub_Workshop
-_Material and Workbook for Data Science Workshop_
+# SciHub Workshop
+This workshop will use Python to analyze soem usage data of the (in)famous platform [SciHub](https://en.wikipedia.org/wiki/Sci-Hub)
+We'll do all of the work for today's tutorial using Juypter Notebooks and Google Colab.
+You'll need a Google Account to launch the interactive interface.
+
+
+
+## Handout
+
+A handout with a description of what is covered in the session can be found  [here]()
+
 
 
 ## Getting Started
 
- 
-### If you have a Brock Email
+We will be using the Google Collab platform for today's workshop. 
 
-[Launch](https://brocku.syzygy.ca/jupyter/user-redirect/git-pull?repo=https://github.com/BrockDSL/SciHub_Workshop)
-
-### If you're a guest
-
-1. Download the [material](https://github.com/BrockDSL/SciHub_Workshop) Look for the **Clone or download** button
-1. Unzip it in your **Downloads** directory 
-1. Run Anaconda and Launch Jupyter Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/SciHub_Workshop/blob/master/Exploring_the_St_Catharines_Data.ipynb) - Exploring the St Catharines Data
 
 
-## Exercises
 
-1. What is Scihub?
-1. What is Jupyter and Anaconda? 
-1. Tabular Data
-1. Pandas
-1. MatplotLib
-1. What else can we do
