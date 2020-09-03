@@ -1,23 +1,21 @@
 ![DSL Logo](dsl_logo.png)
 
-# SciHub Workshop
-This workshop will use Python to analyze soem usage data of the (in)famous platform [SciHub](https://en.wikipedia.org/wiki/Sci-Hub)
-We'll do all of the work for today's tutorial using Juypter Notebooks and Google Colab.
-You'll need a Google Account to launch the interactive interface.
+# Sci Hub Usage in Niagara
+
+## A Data Science case Study
+
+ 
+
+<img src="Sci-Hub_logo.png" alt="SciHub Logo" style="zoom:50%;" />
 
 
 
-## Handout
+This tutorial will use Python to analyze some usage data of the (in)famous platform [SciHub](https://en.wikipedia.org/wiki/Sci-Hub). This tutorial is meant to give you an introduction to the main ideas behind data science by analyzing usage logs of the Sci-Hub website in the Niagara region.
 
-A handout with a description of what is covered in the session can be found  [here]()
+All of the work for the tutorial uses Juypter Notebooks and Google Colab.
+You'll need a Google Account to launch the interactive interface. Click on the blue button to launch the tutorial.
 
-
-
-## Getting Started
-
-We will be using the Google Collab platform for today's workshop. 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/SciHub_Workshop/blob/master/Exploring_the_St_Catharines_Data.ipynb) - Exploring the St Catharines Data
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrockDSL/SciHub_Workshop/blob/master/Exploring%20The%20Data.ipynb) 
 
 
 
