@@ -1,4 +1,3 @@
-![DSL Logo](dsl_logo.png)
 
 # Sci Hub Usage in Niagara
 
